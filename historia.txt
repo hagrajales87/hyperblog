@@ -3,3 +3,5 @@ Esta es la historia de Hector Grajales
 Hector Grajales tiene 32 años y nació en Colombia
 
 Mañana nos enfocaremos en su vida laboral.
+
+Hoy estamos haciendo un repaso sobre las principales funcionalidades de git y GitHub.
